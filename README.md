@@ -5,7 +5,7 @@ Simulation-Outputs und um Bildausgabe spezialisiert.
 Die Datei "Plot_interpolation.py" ist ein Beispiel der Bilverarbeitung.
 In dieser Datei erstelle ich eine Plot, welcher vergleichbar mit Figure 3 & Figure 4 aus
 meinem kürzlich veröffentlichten Paper (https://arxiv.org/pdf/1809.10038.pdf) ist. Darin 
-wird ein sogenanter "Halo" (ein riesige Ansammlung and Gas und Dunkler Materie im frühen 
+wird ein sogenanter "Halo" (ein riesige Ansammlung an Gas und Dunkler Materie im frühen 
 Universum, aus welcher sich Sterne bilden können) geplottet. Dabei wird die Dichte farblich 
 und die Geschwindigkeiten mithilfe von Pfeilen dargestellt.
 Die Datei "Spin_calculation.py" ist ein Beispiel für die Datenanalyse großer 

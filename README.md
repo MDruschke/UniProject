@@ -9,7 +9,7 @@ wird ein sogenanter "Halo" (ein riesige Ansammlung an Gas und Dunkler Materie im
 Universum, aus welcher sich Sterne bilden können) geplottet. Dabei wird die Dichte farblich 
 und die Geschwindigkeiten mithilfe von Pfeilen dargestellt.
 Die Datei "Spin_calculation.py" ist ein Beispiel für die Datenanalyse großer 
-Simulation-Outputs. In dieser berechne für über 9000 Haloes aus deren Gas- und dunkle Materie
+Simulation-Outputs. In dieser berechne für über 9000 Haloes aus den Gas- und dunkle Materie
 Teilchen deren Rotation (Spin), welche ein wichtiges Maß für die Entstehung eines Sternes ist.
 Dazu werden u.a. die Position, Masse und Geschwindigkeit jedes Teilchens verwendet. 
 In meinem Paper ist die Verteilung dieserSpins in Figure 1 dargestellt.
